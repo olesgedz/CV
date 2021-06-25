@@ -11,7 +11,7 @@
 */
 
 
-.msg { padding: 10px; background: #222; position: relative; }
+.msg { padding: 8px; background: #222; position: relative; }
 .msg h1 { color: #fff;  }
 .msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
 .msg a:hover { background: #266400; }
@@ -59,10 +59,10 @@ a#pdf:hover { background: #222; }
 .last { border: none; }
 .skills-list {  }
 .skills-list ul { margin: 0; }
-.skills-list li { margin: 3px 0; padding: 3px 0; }
-.skills-list li span { font-size: 100%; display: block; margin-bottom: -2px; padding: 0 }
+.skills-list li { margin: 3px 0; padding: 2px 0; }
+.skills-list li span { font-size: 100%; display: block; margin-bottom: -1px; padding: 0 }
 .talent { width: 32%; float: left }
-.talent h2 { margin-bottom: 6px; }
+.talent h2 { margin-bottom: 4px; }
 
 #srt-ttab { margin-bottom: 50px; text-align: center;  }
 #srt-ttab img.last { margin-top: 10px }
